@@ -1,22 +1,37 @@
-# Netflix-Gpt
+# 🎬 Netflix-Gpt
 
--create React App
--configured TailwindCSS
+## 🚀 Setup
 
+* Create React App
+* Configured Tailwind CSS
 
+---
 
+## ✨ Features
 
-# Features
--Login/Sign Up
-    -sign In/Sighn Up Form
-    -redirect to Browse page
--Browse(after authentication)
-    -Header
-    -Main Movie
-        -Trailer in Background
-        -Title and Description
-        -Movie Suggestion
-            -Movie List * N
--NetflixGPT
-    -serach Bar
-    -Movie Suggestions
+### 🔐 Login / Sign Up
+
+* Sign In / Sign Up Form
+* Redirect to Browse page
+
+---
+
+### 🎥 Browse (After Authentication)
+
+* Header
+* Main Movie
+
+  * Trailer in Background
+  * Title and Description
+* Movie Suggestions
+
+  * Movie List × N
+
+---
+
+### 🤖 NetflixGPT
+
+* Search Bar
+* Movie Suggestions
+
+---
